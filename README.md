@@ -1,6 +1,12 @@
 # Adaptation of Diffusion Models for Remote Sensing Imagery
 
-In this repository, I adapted the Diffusion Models to Remote Sensing images for three different tasks: Super Resolution, Image Generation, and SAR (_Synthetic Aperture Radar_) to NDVI (_Normalized Difference Vegetation Index_) conversion.
+In this repository, I adapted the Diffusion Models to Remote Sensing images for three different tasks: 
+<ul>
+  <li>Super Resolution</li>
+  <li>Image Generation</li>
+  <li>SAR (Synthetic Aperture Radar) to NDVI (Normalized Difference Vegetation Index) conversion</li>
+</ul>
+
 
 ## Summary of the Files and Folders 
 
