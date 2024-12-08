@@ -1,6 +1,6 @@
 # Adaptation of Diffusion Models for Remote Sensing Imagery
 
-In this repository, I adapted the Diffusion Models to Remote Sensing images for three different tasks: Super Resolution, Image Generation, and SAR to NDVI conversion.
+In this repository, I adapted the Diffusion Models to Remote Sensing images for three different tasks: Super Resolution, Image Generation, and SAR (_Synthetic Aperture Radar_) to NDVI (_Normalized Difference Vegetation Index_) conversion.
 
 ## Summary of the Files and Folders 
 
@@ -41,6 +41,8 @@ In **degradation_from_BSRGAN.py** there are functions taken from https://github.
 ## RESULTS
 
 ### SUPER RESOLUTION
+
+<iframe src="[YOUR_IMGSLI_URL](https://imgsli.com/Mjc2NjAw)" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
 
 [<img src="assets/imgsli_up42.png" height="400px"/>](https://imgsli.com/Mjc2NjAw)
 
