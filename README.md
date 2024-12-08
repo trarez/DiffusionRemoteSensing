@@ -42,7 +42,7 @@ In **degradation_from_BSRGAN.py** there are functions taken from https://github.
 
 ### SUPER RESOLUTION
 
-<iframe src="[YOUR_IMGSLI_URL](https://imgsli.com/Mjc2NjAw)" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://imgsli.com/Mjc2NjAw" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
 
 [<img src="assets/imgsli_up42.png" height="400px"/>](https://imgsli.com/Mjc2NjAw)
 
