@@ -4,7 +4,7 @@ In this repository, I adapted the Diffusion Models to Remote Sensing images for 
 <ul>
   <li>Super Resolution</li>
   <li>Image Generation</li>
-  <li>SAR (Synthetic Aperture Radar) to NDVI (Normalized Difference Vegetation Index) conversion</li>
+  <li>SAR (<i>Synthetic Aperture Radar</i>) to NDVI (<i>Normalized Difference Vegetation Index</i>) conversion</li>
 </ul>
 
 
