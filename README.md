@@ -42,9 +42,7 @@ In **degradation_from_BSRGAN.py** there are functions taken from https://github.
 
 ### SUPER RESOLUTION
 
-<iframe src="https://imgsli.com/Mjc2NjAw" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
-
-[<img src="assets/imgsli_up42.png" height="400px"/>](https://imgsli.com/Mjc2NjAw)
+[<img src="assets/imgsli_up42.png" height="400px"/>](https://imgsli.com/Mjc2NjAw)  
 
 Here is a 25 seconds video showcasing the denoising process for the super resolution problem of the Sentinel-2 dataset:
 
